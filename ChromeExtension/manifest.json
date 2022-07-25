@@ -1,0 +1,9 @@
+{
+    "name": "Motivate Me",
+   "description" : "This extension will help you stay motivated while working.",
+   "version": "1.0.0",
+   "manifest_version":3,
+   "action":{
+    "default_popup":"popup.html"
+   }
+}

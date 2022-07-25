@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html{
+    height: 200px;
+    width: 350px;
+    background: #000;
+    text-align: center;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    background: #000;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+.wrapper{
+border: 2px solid wheat;
+border-radius: 5px;
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+}
+h2{
+color: cornflowerblue;
+padding: 10px;
+text-shadow: 1px 1px 1px #444;
+}
+h3{
+    font-size: 16px;
+}
+.quote{
+    font-weight: normal;
+    margin-bottom: 4px;
+}
+.author{
+    font-weight: 100;
+    margin-bottom: 7px;
+}
